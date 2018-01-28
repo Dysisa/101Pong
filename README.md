@@ -1,3 +1,4 @@
 # 101Pong
 
-Epitech Project, 20/20
+Epitech Project, 
+Note obtenue: 20/20
