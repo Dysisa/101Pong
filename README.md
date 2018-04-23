@@ -15,4 +15,5 @@ Usage:
 
 Example:
 
-See example text file.
+
+![alt text](https://github.com/alexandre10044/101Pong/blob/master/example.png)
