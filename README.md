@@ -12,3 +12,6 @@ will be considered, moving only in the 0-altitude plan (which happens to be (Oxy
 
 Usage:
 ∼/B-MAT-100> ./101pong x0 y0 z0 x1 y1 z1 n
+
+Example:
+![alt text](https://github.com/alexandre10044/101Pong/blob/master/example.png)
